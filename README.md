@@ -1,4 +1,4 @@
-# Randomly Intermittent Reward Timing
+# Randomly Intermittent Reward Timing (RIRT)
 
 | Feature | Tools |
 |---|---|
