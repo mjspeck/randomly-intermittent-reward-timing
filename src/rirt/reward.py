@@ -9,7 +9,7 @@ def main():
         "--probability",
         type=float,
         help="the probability of a reward",
-        default=0.5,
+        default=0.85,
     )
 
     args = parser.parse_args()
