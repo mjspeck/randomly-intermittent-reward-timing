@@ -8,7 +8,7 @@
 
 RIRT is a small, pip-installable script built with only base python that can be run to decide probabilistically if you get a reward for doing something.
 
-This concept comes from the [*Huberman Lab*](https://hubermanlab.com/) podcast:
+This concept is discussed in [Dr. Andrew Huberman's newsletter](https://hubermanlab.com/tools-to-manage-dopamine-and-improve-motivation-and-drive/):
 
 > **Use (Randomly) an Intermittent Reward Timing (RIRT)** [to manage dopamine peaks]. This is the most powerful schedule for dopamine release and **staying motivated**. The casinos use it to take people’s money. It works 100% of the time. You can use RIRT to your advantage, to stay motivated in any pursuit. The key is to **celebrate your wins, but do not celebrate every win**. When you succeed in reaching a milestone, sometimes enjoy that; other times (at random), just keep going. Even better, associate “winning” with the effort process itself. That’s the holy grail of dopamine management for success. It won’t make you dull or unhappy; it will make everything easier and more pleasurable, without the peaks and valleys of dopamine that external-reward-driven people experience, and you’ll obtain all the external rewards anyway.
 
